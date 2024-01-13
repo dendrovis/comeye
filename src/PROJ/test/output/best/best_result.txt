@@ -1,0 +1,4 @@
+arial-11- Distance: 0 Score: 100.0
+arial-7- Distance: 0 Score: 100.0
+arial-9- Distance: 0 Score: 100.0
+timesnewroman-11- Distance: 0 Score: 100.0

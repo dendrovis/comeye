@@ -1,0 +1,5 @@
+Arial-11.JPG-test Distance:0 Score:100.0
+Arial-7.JPG-test Distance:0 Score:100.0
+Arial-9.JPG-test Distance:0 Score:100.0
+Calibri-11.JPG-test Distance:1 Score:99.8921
+TimesNewRoman-11.JPG-test Distance:0 Score:100.0

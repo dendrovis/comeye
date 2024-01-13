@@ -1,0 +1,8 @@
+sample01_-200-05-11-2-7- Distance: 0 Score: 100.0
+sample01_-200-05-11-3-5- Distance: 0 Score: 100.0
+sample01_-200-07-11-2-5- Distance: 0 Score: 100.0
+sample01_-200-11-17-3-5- Distance: 0 Score: 100.0
+sample01_-250-07-17-3-7- Distance: 0 Score: 100.0
+sample01_-250-11-11-2-7- Distance: 0 Score: 100.0
+sample01_-250-11-17-3-7- Distance: 0 Score: 100.0
+sample02_-300-11-37-3-1- Distance: 20 Score: 96.8203
